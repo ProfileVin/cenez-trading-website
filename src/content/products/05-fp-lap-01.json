@@ -1,0 +1,49 @@
+{
+  "id": "fp-lap-01",
+  "sku": "Model [MODEL CODE]",
+  "name": "Lap Pool with Full-width Steps",
+  "category": "Fiberglass pool shell",
+  "headline": "A long pool with an easy way in.",
+  "tagline": "A rectangular lap pool with wide steps across the shallow end and a grey gelcoat finish. Shown filled, before the deck goes on.",
+  "highlights": ["Full-width entry steps", "Long lap length", "Grey gelcoat", "Wide coping flange"],
+  "images": [
+    {
+      "src": "/products/8.jpg",
+      "alt": "Long rectangular fiberglass pool with grey gelcoat, filled with clear water, with wide steps across the near end and a flat coping flange, set into bare ground before decking.",
+      "caption": "Filled and ready for decking"
+    }
+  ],
+  "status": "Made to order",
+  "price": "[PRICE]",
+  "priceNote": "Shell only. Delivery and installation quoted per site.",
+  "length": "[LENGTH] m",
+  "width": "[WIDTH] m",
+  "depth": "[DEPTH] m",
+  "hasPlan": false,
+  "customizable": true,
+  "colors": ["Grey"],
+  "facts": [
+    { "label": "Length", "value": "[LENGTH] m" },
+    { "label": "Width", "value": "[WIDTH] m" },
+    { "label": "Water depth", "value": "[DEPTH] m" },
+    { "label": "Warranty", "value": "[X] yrs" }
+  ],
+  "features": [
+    { "n": "1", "title": "Full-width entry steps", "body": "Wide steps across the shallow end make getting in easy for kids and older swimmers." },
+    { "n": "2", "title": "Long lap length", "body": "A straight, uninterrupted run of water for swimming laps." },
+    { "n": "3", "title": "Grey gelcoat", "body": "A grey interior gives the water a natural, lagoon-like color." },
+    { "n": "4", "title": "Wide coping flange", "body": "A broad flat edge all around for a clean finish under the deck." }
+  ],
+  "specs": [
+    { "label": "Shell type", "value": "One-piece molded fiberglass (FRP)" },
+    { "label": "Interior finish", "value": "Gelcoat, grey as shown" },
+    { "label": "Shape", "value": "Rectangular lap pool" },
+    { "label": "Overall size", "value": "[LENGTH] m × [WIDTH] m" },
+    { "label": "Water depth", "value": "[DEPTH] m" },
+    { "label": "Entry", "value": "Full-width steps at the shallow end" },
+    { "label": "Water volume", "value": "[CAPACITY] litres" },
+    { "label": "Shell weight", "value": "[WEIGHT] kg" },
+    { "label": "Warranty", "value": "[X] years structure, [X] years surface" },
+    { "label": "Lead time", "value": "[LEAD TIME]" }
+  ]
+}

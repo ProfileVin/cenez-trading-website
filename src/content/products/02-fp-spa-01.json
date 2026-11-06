@@ -1,0 +1,62 @@
+{
+  "id": "fp-spa-01",
+  "sku": "Model [MODEL CODE]",
+  "name": "Pool with Built-in Spa",
+  "category": "Fiberglass pool shell",
+  "headline": "A pool and a spa, molded as one shell.",
+  "tagline": "A rectangular pool with a raised spa and seating section built into one end. One shell, one installation, two ways to use the water.",
+  "highlights": ["Built-in spa section", "Molded seating", "Skimmer and light ports", "Ribbed exterior"],
+  "images": [
+    {
+      "src": "/products/2.jpg",
+      "alt": "Blue fiberglass pool with a built-in spa section being set into an excavated hillside site at sunset, with palm trees and a mountain behind.",
+      "caption": "Being set into a hillside site"
+    },
+    {
+      "src": "/products/1.jpg",
+      "alt": "Side view of the pool-and-spa shell in the workshop, showing the reinforcing ribs, plumbing stubs and the stepped spa section at one end.",
+      "caption": "In the workshop: ribs and plumbing stubs on the outside"
+    },
+    {
+      "src": "/products/6.jpg",
+      "alt": "Close view of the pool-and-spa shell in its excavation, with a worker connecting plumbing in the trench beside it.",
+      "caption": "Plumbing connected before backfill"
+    }
+  ],
+  "status": "Made to order",
+  "price": "[PRICE]",
+  "priceNote": "Shell only. Delivery and installation quoted per site.",
+  "length": "[LENGTH] m",
+  "width": "[WIDTH] m",
+  "depth": "[DEPTH] m",
+  "hasPlan": false,
+  "customizable": true,
+  "colors": ["Cobalt blue"],
+  "facts": [
+    { "label": "Length", "value": "[LENGTH] m" },
+    { "label": "Width", "value": "[WIDTH] m" },
+    { "label": "Pool depth", "value": "[DEPTH] m" },
+    { "label": "Warranty", "value": "[X] yrs" }
+  ],
+  "features": [
+    { "n": "1", "title": "Built-in spa section", "body": "A raised spa area sits at one end of the pool, separated by a molded wall, so it can be heated or jetted on its own." },
+    { "n": "2", "title": "Molded seating", "body": "Seats and steps are part of the shell, for sitting in the spa or easing into the main pool." },
+    { "n": "3", "title": "Skimmer and light ports", "body": "Openings for the skimmer, lights and return jets are set in the mold before the shell leaves the workshop." },
+    { "n": "4", "title": "Coping flange", "body": "The flat lip around the top sits under your deck or tile, hiding the edge of the shell." },
+    { "n": "5", "title": "Ribbed exterior", "body": "Reinforcing ribs on the outside stiffen the walls once the shell is backfilled." }
+  ],
+  "specs": [
+    { "label": "Shell type", "value": "One-piece molded fiberglass (FRP)" },
+    { "label": "Interior finish", "value": "Gelcoat, cobalt blue as shown" },
+    { "label": "Overall size", "value": "[LENGTH] m × [WIDTH] m" },
+    { "label": "Pool depth", "value": "[DEPTH] m" },
+    { "label": "Spa section", "value": "[SPA SIZE]" },
+    { "label": "Fittings", "value": "Skimmer, light and return ports" },
+    { "label": "Top edge", "value": "Coping flange for deck or tile" },
+    { "label": "Water volume", "value": "[CAPACITY] litres" },
+    { "label": "Shell weight", "value": "[WEIGHT] kg" },
+    { "label": "Warranty", "value": "[X] years structure, [X] years surface" },
+    { "label": "Lead time", "value": "[LEAD TIME]" },
+    { "label": "Included", "value": "[SHELL ONLY / WITH PUMP & FILTER]" }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "fp-rect-01",
+  "sku": "Model [MODEL CODE]",
+  "name": "Rectangular Plunge Pool with Corner Steps",
+  "category": "Fiberglass pool shell",
+  "headline": "A finished pool that arrives in one piece.",
+  "tagline": "A one-piece fiberglass shell with molded corner steps and a bench ledge. Built in the workshop, set into your ground, ready to plumb.",
+  "highlights": ["Corner steps", "Bench ledge on two walls", "Gelcoat finish", "Ribbed exterior"],
+  "images": [
+    {
+      "src": "/products/product1.jpg",
+      "alt": "Blue fiberglass pool shell sitting on grass in an open field before installation, with curved corner steps, a bench ledge inside and dark reinforcing ribs on the outside. A worker sits on the rim.",
+      "caption": "Shell shown before rim trimming and installation"
+    },
+    {
+      "src": "/products/5.jpg",
+      "alt": "The same model set into a garden at night, with curved corner steps, a pool light and fittings installed, before decking.",
+      "caption": "Installed in a garden, before decking"
+    },
+    {
+      "src": "/products/4.jpg",
+      "alt": "Front view of the installed plunge pool in a garden at night, showing the skimmer, lights and bench ledge along the walls.",
+      "caption": "Skimmer, lights and return fittings in place"
+    }
+  ],
+  "status": "[STOCK STATUS]",
+  "price": "[PRICE]",
+  "priceNote": "Shell only. Delivery and installation quoted per site.",
+  "length": "≈ 4.5 m",
+  "width": "≈ 2.7 m",
+  "depth": "≈ 1.3 m",
+  "hasPlan": true,
+  "customizable": true,
+  "colors": ["Cobalt blue"],
+  "facts": [
+    { "label": "Length", "value": "≈ 4.5 m" },
+    { "label": "Width", "value": "≈ 2.7 m" },
+    { "label": "Water depth", "value": "≈ 1.3 m" },
+    { "label": "Warranty", "value": "[X] yrs" }
+  ],
+  "features": [
+    { "n": "1", "title": "Curved corner steps", "body": "Three wide steps molded into one corner. No ladder to bolt on, nothing to rust." },
+    { "n": "2", "title": "Bench ledge", "body": "A seat runs along two walls for sitting in the water, watching the kids or cooling off." },
+    { "n": "3", "title": "Pre-cut fitting ports", "body": "Openings for return jets and lights are set in the mold, so plumbing lines up the same way on every unit." },
+    { "n": "4", "title": "Coping flange", "body": "The flat lip sits level with the ground and disappears under your concrete, stone or tile deck." },
+    { "n": "5", "title": "Ribbed exterior", "body": "Vertical reinforcing ribs on the outside stiffen the walls once the shell is backfilled." }
+  ],
+  "specs": [
+    { "label": "Shell type", "value": "One-piece molded fiberglass (FRP)" },
+    { "label": "Interior finish", "value": "Gelcoat, cobalt blue as shown" },
+    { "label": "Overall size", "value": "≈ 4.5 m × 2.7 m" },
+    { "label": "Water depth", "value": "≈ 1.3 m" },
+    { "label": "Entry", "value": "3 curved corner steps" },
+    { "label": "Seating", "value": "Bench ledge on two walls" },
+    { "label": "Fittings", "value": "Pre-cut ports for returns and lights" },
+    { "label": "Top edge", "value": "Coping flange for deck or tile" },
+    { "label": "Water volume", "value": "[CAPACITY] litres" },
+    { "label": "Shell weight", "value": "[WEIGHT] kg" },
+    { "label": "Laminate", "value": "[THICKNESS] mm, [RESIN TYPE]" },
+    { "label": "Warranty", "value": "[X] years structure, [X] years surface" },
+    { "label": "Lead time", "value": "[LEAD TIME]" },
+    { "label": "Included", "value": "[SHELL ONLY / WITH PUMP & FILTER]" }
+  ]
+}

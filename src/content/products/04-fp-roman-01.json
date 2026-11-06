@@ -1,0 +1,48 @@
+{
+  "id": "fp-roman-01",
+  "sku": "Model [MODEL CODE]",
+  "name": "Long Pool with Rounded End",
+  "category": "Fiberglass pool shell",
+  "headline": "Room to swim, with a soft rounded end.",
+  "tagline": "A long fiberglass pool with one rounded end and a bright white gelcoat. Shown here during installation, braced and level before backfill.",
+  "highlights": ["Rounded end", "Long swimming length", "White gelcoat", "Light ports"],
+  "images": [
+    {
+      "src": "/products/7.jpg",
+      "alt": "Long white fiberglass pool shell with a rounded end set into an excavation, braced with timber cross-pieces during installation, with pool lights fitted.",
+      "caption": "Braced and levelled during installation"
+    }
+  ],
+  "status": "Made to order",
+  "price": "[PRICE]",
+  "priceNote": "Shell only. Delivery and installation quoted per site.",
+  "length": "[LENGTH] m",
+  "width": "[WIDTH] m",
+  "depth": "[DEPTH] m",
+  "hasPlan": false,
+  "customizable": true,
+  "colors": ["White"],
+  "facts": [
+    { "label": "Length", "value": "[LENGTH] m" },
+    { "label": "Width", "value": "[WIDTH] m" },
+    { "label": "Water depth", "value": "[DEPTH] m" },
+    { "label": "Warranty", "value": "[X] yrs" }
+  ],
+  "features": [
+    { "n": "1", "title": "Rounded end", "body": "One end of the pool is curved, softening the shape and making a natural place to sit or enter." },
+    { "n": "2", "title": "Long swimming length", "body": "A longer, narrower shell for laps and exercise without taking the whole yard." },
+    { "n": "3", "title": "White gelcoat", "body": "A white interior gives the water a light turquoise look once filled." },
+    { "n": "4", "title": "Light ports", "body": "Openings for underwater lights are set in the mold." }
+  ],
+  "specs": [
+    { "label": "Shell type", "value": "One-piece molded fiberglass (FRP)" },
+    { "label": "Interior finish", "value": "Gelcoat, white as shown" },
+    { "label": "Shape", "value": "Rectangular with one rounded end" },
+    { "label": "Overall size", "value": "[LENGTH] m × [WIDTH] m" },
+    { "label": "Water depth", "value": "[DEPTH] m" },
+    { "label": "Water volume", "value": "[CAPACITY] litres" },
+    { "label": "Shell weight", "value": "[WEIGHT] kg" },
+    { "label": "Warranty", "value": "[X] years structure, [X] years surface" },
+    { "label": "Lead time", "value": "[LEAD TIME]" }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "fp-free-01",
+  "sku": "Model [MODEL CODE]",
+  "name": "Freeform Pool",
+  "category": "Fiberglass pool shell",
+  "headline": "Soft curves for a garden setting.",
+  "tagline": "A compact freeform shell with a curved outline and a molded bench. Suits gardens, resorts and spaces where a rectangle feels too formal.",
+  "highlights": ["Curved freeform outline", "Molded bench", "Compact footprint", "Gelcoat finish"],
+  "images": [
+    {
+      "src": "/products/3.jpg",
+      "alt": "Blue freeform fiberglass pool shell standing on its side in the workshop yard while a worker finishes the inside surface, showing the curved outline and a molded bench.",
+      "caption": "Finishing the gelcoat in the workshop"
+    }
+  ],
+  "status": "Made to order",
+  "price": "[PRICE]",
+  "priceNote": "Shell only. Delivery and installation quoted per site.",
+  "length": "[LENGTH] m",
+  "width": "[WIDTH] m",
+  "depth": "[DEPTH] m",
+  "hasPlan": false,
+  "customizable": true,
+  "colors": ["Cobalt blue"],
+  "facts": [
+    { "label": "Length", "value": "[LENGTH] m" },
+    { "label": "Width", "value": "[WIDTH] m" },
+    { "label": "Water depth", "value": "[DEPTH] m" },
+    { "label": "Warranty", "value": "[X] yrs" }
+  ],
+  "features": [
+    { "n": "1", "title": "Curved outline", "body": "A freeform shape with no sharp corners blends into planting, rocks and garden paths." },
+    { "n": "2", "title": "Molded bench", "body": "A wide seat along one side for sitting in the water." },
+    { "n": "3", "title": "Smooth gelcoat interior", "body": "The finished surface comes from the mold, with no plaster or tiles to maintain." },
+    { "n": "4", "title": "Rolled top edge", "body": "A rounded rim that can be finished with stone, concrete or tile." }
+  ],
+  "specs": [
+    { "label": "Shell type", "value": "One-piece molded fiberglass (FRP)" },
+    { "label": "Interior finish", "value": "Gelcoat, cobalt blue as shown" },
+    { "label": "Shape", "value": "Freeform / curved" },
+    { "label": "Overall size", "value": "[LENGTH] m × [WIDTH] m" },
+    { "label": "Water depth", "value": "[DEPTH] m" },
+    { "label": "Seating", "value": "Molded bench" },
+    { "label": "Water volume", "value": "[CAPACITY] litres" },
+    { "label": "Shell weight", "value": "[WEIGHT] kg" },
+    { "label": "Warranty", "value": "[X] years structure, [X] years surface" },
+    { "label": "Lead time", "value": "[LEAD TIME]" }
+  ]
+}
